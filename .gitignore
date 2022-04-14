@@ -1,0 +1,7 @@
+.xml .java save git add . git commit -m "ignoring" now create db.xml git status
+//update purpose
+git push ---------------------- git pull <remote branch URL> git pull origin master 
+-------------------------- If we don't have parallel development, we can probably
+ git push now ---------------------------------------- If we do have parallel development, this 
+is a problem In the face of parallel development, we need a way to
+ combine work
